@@ -1,7 +1,7 @@
-package org.example;
+package com.back;
 
 public class WiseSaying {
-        String wise;
-        String author;
-        int wiseNum;
+    int id;
+    String saying;
+    String author;
 }
